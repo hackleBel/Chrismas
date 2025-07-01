@@ -1,0 +1,37 @@
+.light-theme {
+    --first-color-alt: #D42B39;
+    --first-color: #DC3845;
+
+    --title-color: #282525;
+    --text-color: #5D5656;
+    --text-color-light: #918889;
+
+    --body-color: #FFFFFF;
+    --container-color: #FFFFFF;
+
+    --title-first-color: #282525;
+    --first-title-color: #DC3845;
+    --first-dark-color: #DC3845;
+    --active-color: #DC3845;
+    
+    --body-color-mobile: #fff;
+}
+
+.dark-theme {
+    --first-color-alt: #D42B39;
+    --first-color: #2F2223;
+
+    --title-color: #F3F2F2;
+    --text-color: #C2BDBD;
+    --text-color-light: #918889;
+
+    --body-color: #251819;
+    --container-color: #2F2223;
+
+    --title-first-color: #DC3845;
+    --first-title-color: #F3F2F2;
+    --first-dark-color: #DC3845;
+    --active-color: #DC3845;
+
+    --body-color-mobile: #2F2223;
+}

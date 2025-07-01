@@ -1,0 +1,24 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 75px;
+    margin-bottom: 110px;
+}
+
+.content {
+    width: 150px;
+    height: 90px;
+}
+
+.content1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 150px;
+    height: 90px;
+}
+
+.footer__text {
+    display: flex;
+    justify-content: center;
+}

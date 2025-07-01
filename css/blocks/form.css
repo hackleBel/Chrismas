@@ -1,0 +1,22 @@
+.form__left {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    width: 264px;
+    height: 255px;
+
+    margin: 50px 65px 50px 150px;
+}
+
+.form__title {
+    color: #fff;
+}
+
+.form__right {
+    margin: 30px 120px 30px 0;
+}
+
+.form__input {
+    color: var(--text-color-light);
+}

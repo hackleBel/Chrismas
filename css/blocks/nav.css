@@ -1,0 +1,35 @@
+.nav__container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 72px;
+}
+
+.nav__logo {
+    width: 112px;
+    height: 24px;
+}
+
+.nav__logo-link {
+    display: flex;
+    align-items: center;
+    gap: 6px; 
+    height: 100%;
+    text-decoration: none;
+    color: inherit;
+}
+
+
+.nav__links {
+    display: flex;
+    justify-content: space-between;
+    width: 412px;
+}
+
+.nav__links-left {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 344px;
+    height: 24px;
+}

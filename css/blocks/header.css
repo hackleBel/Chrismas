@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    height: 442px;
+}
+
+.heder__right {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 450px;
+}
+
+.header__description {
+    margin-top: 16px;
+    margin-bottom: 48px;
+}
